@@ -1,0 +1,4 @@
+# Hozzunk létre két üres, soha meg nem hibásodó torpedótárat
+GT4500,0,0,0,0
+# Próbáljunk mindkét tárból tüzelni
+TORPEDO,ALL

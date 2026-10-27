@@ -1,0 +1,4 @@
+# Hozzunk létre üres primary és feltöltött secondary tárat
+GT4500,0,0,1,0
+# Az üres primary helyett a secondary tárból próbál tüzelni
+TORPEDO,SINGLE
