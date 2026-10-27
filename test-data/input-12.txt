@@ -1,0 +1,6 @@
+# Hozzunk létre egy torpedót a primary tárban, a secondary tár legyen üres
+GT4500,1,0,0,0
+# Az első lövés sikeresen elfogyasztja a primary tár torpedóját
+TORPEDO,SINGLE
+# A következő tár üres, és a primary tárban sincs már torpedó
+TORPEDO,SINGLE
