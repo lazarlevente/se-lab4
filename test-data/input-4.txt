@@ -1,0 +1,6 @@
+# Hozzunk létre két feltöltött, soha meg nem hibásodó torpedótárat
+GT4500,2,0,2,0
+# Lőjünk egyszer a primary tárból
+TORPEDO,SINGLE
+# Lőjünk újra; most a secondary tár következik
+TORPEDO,SINGLE

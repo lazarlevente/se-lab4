@@ -1,0 +1,4 @@
+# Hozzunk létre feltöltött, soha meg nem hibásodó torpedótárakkal rendelkező hajót
+GT4500,10,0,10,0
+# Próbáljunk mindkét torpedótárból tüzelni
+TORPEDO,ALL

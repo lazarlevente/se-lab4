@@ -1,0 +1,4 @@
+# Hozzunk létre garantáltan meghibásodó primary és hibamentes secondary tárat
+GT4500,1,1.0,1,0
+# A primary tár hibája után a secondary tárból sem próbál tüzelni
+TORPEDO,SINGLE
