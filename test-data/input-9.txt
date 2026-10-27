@@ -1,0 +1,4 @@
+# Hozzunk létre garantáltan hibázó primary és hibamentes secondary tárat
+GT4500,1,1.0,1,0
+# Próbáljunk mindkét tárból tüzelni; legalább az egyik lövés sikerül
+TORPEDO,ALL
